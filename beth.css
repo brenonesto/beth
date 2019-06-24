@@ -11,5 +11,13 @@ nav li {
 }
 
 table {
-    margin-bottom: 30px;
+    margin-bottom: 100px;
+}
+
+.anos {
+    background-color: yellow;
+}
+
+.analise { 
+    background-color: red;
 }
