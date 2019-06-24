@@ -1,0 +1,15 @@
+.nav-wrapper {
+    background-color: black;
+    text-align: center;
+}
+nav li {
+    width: 33%;
+}
+
+.principais {
+    font-weight: bold;
+}
+
+table {
+    margin-bottom: 30px;
+}
